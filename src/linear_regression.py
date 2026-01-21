@@ -55,6 +55,6 @@ def main():
         # matplotlib not available or running headless; that's fine
         pass
 
-
+print("Running Linear Regression with the following configuration:")
 if __name__ == '__main__':
     main()
